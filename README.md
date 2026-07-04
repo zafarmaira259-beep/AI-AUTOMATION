@@ -1,7 +1,5 @@
- your notes will be here
+ your notes will be he
 
  
- jhgedfszfjhgdjhrrw
 
  
- ukhf,yj,c
