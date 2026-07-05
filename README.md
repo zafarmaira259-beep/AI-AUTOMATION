@@ -1,6 +1,6 @@
 # notes:
 
-Ai Automation:
+##Ai Automation:
 
 When we perform repetitive tasks using artificial intelegince with minimum human efforts .Its called ai autmation.e.g.CHATBOT
 
