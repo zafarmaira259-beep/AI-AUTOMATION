@@ -25,33 +25,35 @@ AI AUTOMATION has many tools.Commonly we use n8n and OPEN AI APP.
 
 When we execute trigger node our workflow starts working.
 
-# types
+## types of trigger node:
 
-## trigger manualy
+It has fllowing types:
+
+### Trigger manualy:
 
 it works manually.
 
-# on a schedule:
+### On a schedule:
 
 it works on a fixed time which we set.
 
-# on app event: 
+### On app event: 
 
 it runs the flow on app.
 
-# webhook call :
+### Webhook call :
 
 it runs the workflow when it receive http code
 
-# on chat message:
+### On chat message:
 
 it runs the worksflow when recieved message.
 
-# by another workflow: 
+### By another workflow: 
 
 it executed after one workflow runs.
 
-# on form submission:
+### On form submission:
 
 it runs the flow when form submitted on google.
 
