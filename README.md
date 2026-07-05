@@ -1,6 +1,6 @@
 notes:
 
-Before ai we automate things but with its help, ai automatically do things with less human interference.
+Before ai we automate things but with the help of ai,it  automatically automate things with less human interference.
 
 Ai Automation:
 
