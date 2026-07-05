@@ -21,6 +21,24 @@ It has many real world applications for example we use it in banks to detect fra
 
 AI AUTOMATION has many tools.Commonly we use n8n and OPEN AI APP.
 
+# TRIGGER NODE:
+When we execute trigger node our workflow starts working.
+
+# types
+
+# trigger manualy works manually.
+
+# on a schedule: it works on a fixed time which we set.
+
+# on app event: it runs the flow on app.
+
+# webhook call :it runs the workflow when it receive http code
+
+# on chat message:it runs the worksflow when recieved message.
+
+# by another workflow: it executed after one workflow runs.
+
+# on form submission: it runs the flow when form submitted on google.
 
 
 
