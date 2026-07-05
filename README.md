@@ -1,4 +1,4 @@
-notes:
+# notes:
 
 Ai Automation:
 
@@ -9,7 +9,7 @@ we require it to increase reproductivy ,for Better costumar experience
 ai automation USES LLM(Large language model)
 
 
-ADVANTAGES:
+# ADVANTAGES:
 
 World is adopting ai automation because of following advantages
 
@@ -17,7 +17,7 @@ speed,scalebility,accuracy ,smart decision making.
 
 It has many real world applications for example we use it in banks to detect frauds ,in hospitals  etc
 
-TOOLS:
+# TOOLS:
 
 AI AUTOMATION has many tools.Commonly we use n8n and OPEN AI APP.
 
