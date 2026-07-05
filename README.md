@@ -27,7 +27,7 @@ When we execute trigger node our workflow starts working.
 
 # types
 
-# trigger manualy
+## trigger manualy
 
 it works manually.
 
