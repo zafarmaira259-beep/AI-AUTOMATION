@@ -57,7 +57,7 @@ it executed after one workflow runs.
 
 it runs the flow when form submitted on google.
 
-![wokrflow of AI GROQ model](image_url)
+![wokrflow of AI GROQ model](images/workflow.PNGl)
 
 
  
