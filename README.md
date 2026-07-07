@@ -59,9 +59,11 @@ it runs the flow when form submitted on google.
 
 ## ai agent
 
-on this workflow we use ON CHAT TRIGGER , then we use AI AGENT .With AI AGENT we use GROQ CHAT MODEL as sub node.
+On this workflow we use ON CHAT TRIGGER , then we use AI AGENT .With AI AGENT we use GROQ CHAT MODEL as sub node.
 
-we can chat with it Ai Agent recieves it but it don't memorize our chat .So to memorize it our chat
+We can chat with it , Ai Agent recieves our chat but it doesn't memorize our chat .So to memorize it our chat ,we use simple memory trigger node.
+
+
 ![wokrflow of AI GROQ model](images/workflow.PNG)
 
 
