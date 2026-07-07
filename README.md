@@ -59,7 +59,7 @@ it runs the flow when form submitted on google.
 
 ## ai agent
 
-we use ai agent
+on this workflow we use ON CHAT TRIGGER  then we use ai agent .With that we we use sub node
 ![wokrflow of AI GROQ model](images/workflow.PNG)
 
 
