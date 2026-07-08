@@ -68,7 +68,7 @@ We can chat with it , Ai Agent recieves our chat but it doesn't memorize our cha
 
 ## Trigger Manually
 
-fjsdljfdjfklsdjfljl
+
 
 
 ![trigger manually](images/trigger_manually.PNG)
