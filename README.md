@@ -66,6 +66,13 @@ We can chat with it , Ai Agent recieves our chat but it doesn't memorize our cha
 
 ![wokrflow of AI GROQ model](images/workflow.PNG)
 
+## Trigger Manually
+
+fjsdljfdjfklsdjfljl
+
+
+![wokrflow of AI GROQ model](images/trigger manually.PNG)
+
 
 
 
