@@ -71,7 +71,7 @@ We can chat with it , Ai Agent recieves our chat but it doesn't memorize our cha
 fjsdljfdjfklsdjfljl
 
 
-![trigger manually](images/trigger manually.PNG)
+![trigger manually](images/trigger_manually.PNG)
 
 
 
