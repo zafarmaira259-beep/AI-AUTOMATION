@@ -76,6 +76,15 @@ we use trigger manually as a trgger node. when we click it it execute workflow.
 
 
 
+## Schedule Node
+
+we use trigger manually as a trgger node. when we click it it execute workflow.
+
+
+
+![schedule node](images/schedule-node.PNG)
+
+
 
 
  
