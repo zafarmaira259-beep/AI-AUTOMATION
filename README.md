@@ -78,7 +78,7 @@ we use trigger manually as a trgger node. when we click it it execute workflow.
 
 ## Schedule Node
 
-we use trigger manually as a trgger node. when we click it it execute workflow.
+use schedule node . It will run on exact schedule , we set.
 
 
 
