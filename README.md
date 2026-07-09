@@ -68,7 +68,8 @@ We can chat with it , Ai Agent recieves our chat but it doesn't memorize our cha
 
 ## Trigger Manually
 
-we use trigger manually as a trgger node.
+we use trigger manually as a trgger node. when we click it it execute workflow.
+
 
 
 ![trigger manually](images/trigger_manually.PNG)
